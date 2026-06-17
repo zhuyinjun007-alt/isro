@@ -1,0 +1,63 @@
+﻿{
+    "round":  "phase-isro-new-return-actions-20260617",
+    "created_at":  "2026-06-17T16:15:08.7015644+08:00",
+    "repository":  "D:\\做ISRO返回记录",
+    "branch":  "main",
+    "head":  "7bab410275e96fa28688b193b6910962dddc9f12",
+    "live_files":  [
+                       {
+                           "path":  "F:\\CSRO客户端\\SRO_Client.exe",
+                           "sha256":  "280C277CF73E93DBA9F384722653BD630CCA0EA8531EBCA387D792FAB41DB70E",
+                           "length":  13045760,
+                           "last_write_time":  "2026-06-17T09:51:36.3987560+08:00"
+                       },
+                       {
+                           "path":  "D:\\CSRO\\8-SR_GameServer.exe",
+                           "sha256":  "B5C56F6A92B317C1701E1CF9E963754E4A0A52FFA74ACEFD91BC1E1DF8915C98",
+                           "length":  9949184,
+                           "last_write_time":  "2026-06-17T10:07:55.8984115+08:00"
+                       },
+                       {
+                           "path":  "F:\\ISRO客户端国服\\sro_client.exe",
+                           "sha256":  "5AAE7E89985FEAFC4BB4273CAF73FB338213771C3488C756013B65182170ECB0",
+                           "length":  14196736,
+                           "last_write_time":  "2026-06-11T19:15:50.9710368+08:00"
+                       },
+                       {
+                           "path":  "F:\\SR_GameServer.exe",
+                           "sha256":  "6491737E65454C577CE72384C30DBEC72E57F9B8ECD064D8B4D1ABB42D8EC302",
+                           "length":  12218368,
+                           "last_write_time":  "2025-02-02T05:47:54.2332044+08:00"
+                       }
+                   ],
+    "lock_check":  {
+                       "locked_processes":  [
+
+                                            ],
+                       "locked_process_count":  0
+                   },
+    "backup":  {
+                   "directory":  "C:\\Users\\43584\\Documents\\添加ISRO的返回功能\\backups\\phase-isro-new-return-actions-20260617",
+                   "files":  [
+                                 {
+                                     "path":  "C:\\Users\\43584\\Documents\\添加ISRO的返回功能\\backups\\phase-isro-new-return-actions-20260617\\SRO_Client.exe",
+                                     "sha256":  "280C277CF73E93DBA9F384722653BD630CCA0EA8531EBCA387D792FAB41DB70E",
+                                     "length":  13045760,
+                                     "last_write_time":  "2026-06-17T09:51:36.3987560+08:00"
+                                 },
+                                 {
+                                     "path":  "C:\\Users\\43584\\Documents\\添加ISRO的返回功能\\backups\\phase-isro-new-return-actions-20260617\\8-SR_GameServer.exe",
+                                     "sha256":  "B5C56F6A92B317C1701E1CF9E963754E4A0A52FFA74ACEFD91BC1E1DF8915C98",
+                                     "length":  9949184,
+                                     "last_write_time":  "2026-06-17T10:07:55.8984115+08:00"
+                                 }
+                             ]
+               },
+    "notes":  [
+                  "Task 1 live freeze before writing EXE/GS patches.",
+                  "No binary patch entries have been applied in this manifest yet."
+              ],
+    "patches":  [
+
+                ]
+}

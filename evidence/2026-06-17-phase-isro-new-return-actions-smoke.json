@@ -1,0 +1,72 @@
+{
+  "round": "phase-isro-new-return-actions-20260617",
+  "created_at": "2026-06-17T16:21:38.555484+08:00",
+  "status": "manual_smoke_required",
+  "live_files": [
+    {
+      "path": "F:\\CSRO客户端\\SRO_Client.exe",
+      "exists": true,
+      "sha256": "280C277CF73E93DBA9F384722653BD630CCA0EA8531EBCA387D792FAB41DB70E",
+      "length": 13045760,
+      "last_write_time": "2026-06-17T01:51:36.398756+00:00"
+    },
+    {
+      "path": "D:\\CSRO\\8-SR_GameServer.exe",
+      "exists": true,
+      "sha256": "B5C56F6A92B317C1701E1CF9E963754E4A0A52FFA74ACEFD91BC1E1DF8915C98",
+      "length": 9949184,
+      "last_write_time": "2026-06-17T02:07:55.898412+00:00"
+    }
+  ],
+  "items": [
+    {
+      "name": "第一次右键返回卷轴 UI 正常出现",
+      "result": "pending",
+      "evidence": ""
+    },
+    {
+      "name": "关闭后第二次右键返回卷轴 UI 正常出现",
+      "result": "pending",
+      "evidence": ""
+    },
+    {
+      "name": "旧 CSRO 按钮 0xC8/0xC9/0xCA/0xCB 功能仍可用",
+      "result": "pending",
+      "evidence": ""
+    },
+    {
+      "name": "单人未组队时 0xCC 移动至队员位置灰色不可选",
+      "result": "pending",
+      "evidence": ""
+    },
+    {
+      "name": "两人及以上组队时 0xCC 可选",
+      "result": "pending",
+      "evidence": ""
+    },
+    {
+      "name": "0xCC 点击后不闪退并进入预期链路",
+      "result": "pending",
+      "evidence": ""
+    },
+    {
+      "name": "0xCF 点击后不闪退并进入预期链路",
+      "result": "pending",
+      "evidence": ""
+    },
+    {
+      "name": "同时间段无新增客户端 dump",
+      "result": "pending",
+      "evidence": ""
+    },
+    {
+      "name": "同时间段无新增 GS FatalLog",
+      "result": "pending",
+      "evidence": ""
+    }
+  ],
+  "notes": [
+    "This script records the smoke-test checklist; it does not launch the game client.",
+    "Fill results after manual in-game validation."
+  ]
+}
